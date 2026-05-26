@@ -1,0 +1,16 @@
+# Bỏ qua môi trường ảo
+venv/
+__pycache__/
+
+# Bỏ qua dữ liệu ảnh nặng
+archive/
+
+# Bỏ qua các file trọng số AI
+*.pt
+*.ckpt
+results/
+exported_models/
+exported_models_separated/
+
+# Bỏ qua file cấu hình web
+.streamlit/
