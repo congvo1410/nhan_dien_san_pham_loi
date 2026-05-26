@@ -43,7 +43,7 @@ Một hệ thống Deep Learning hoàn chỉnh (End-to-End) được thiết k�
 
 ## Hướng Dẫn Cài Đặt
 1. Tải Mã Nguồn
-git clone [https://github.com/your-username/industrial-defect-detection.git](https://github.com/your-username/industrial-defect-detection.git)
+git clone [https://github.com/congvo1410/nhan_dien_san_pham_loi.git](https://github.com/congvo1410/nhan_dien_san_pham_loi.git)
 cd industrial-defect-detection
 
 2. Tạo Và Kích Hoạt Môi Trường Ảo
