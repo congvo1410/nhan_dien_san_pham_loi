@@ -76,3 +76,5 @@ Mở trình duyệt tại địa chỉ http://localhost:8501. Hệ thống đã 
 ## Đánh Giá & Kết Quả Trực Quan
 Kết Quả Nhận Diện Thực Tế
 Thuật toán tự động đối chiếu hình ảnh đầu vào với bộ nhớ không gian bình thường, từ đó sinh ra Anomaly Map dưới dạng Tensor. Hệ thống sẽ ép kiểu dữ liệu về NumPy Array và dùng OpenCV để khoanh vùng vết xước.
+
+![alt text](demo.png)
